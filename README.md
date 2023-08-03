@@ -1,2 +1,2 @@
 # Titanic
-[Titanic](https://www.kaggle.com/miladrasooli)
+[my kaggle](https://www.kaggle.com/miladrasooli)
